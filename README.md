@@ -1,4 +1,4 @@
-# HELLO, I AM ARIF HASSAN
+# Hello, I Am Arif Hassan
 
 ## Full-Stack Web Developer | PHP | Laravel | WordPress Developer | TailwindCSS | Javascript | Alpine Js  
 
