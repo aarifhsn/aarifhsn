@@ -27,4 +27,4 @@ I build clean, responsive, and user-friendly websites skilled in multiple techno
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/aarifhasan)
 [<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />](https://mountaviary.com)
 
-### 💼 Looking to collaborate on interesting projects? [Say Hello](mailto:your-aarif@mountaviary.com)
+### 💼 Looking to collaborate on interesting projects? [Say Hello](mailto:aarif@mountaviary.com)
