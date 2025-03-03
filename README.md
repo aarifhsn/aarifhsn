@@ -4,12 +4,12 @@
 
 I build clean, responsive, and user-friendly websites skilled in multiple technologies.
 
-### Tech Stack
+### 🛠️ Tech Stack
 - **Backend**: Laravel, PHP, WordPress (Themes & Plugins)
 - **Frontend**: JavaScript, Alpine.js, Tailwind CSS, Bootstrap 5
 - **Currently Exploring**: React.js to level up further
 
-### What I Do
+### 🚀 What I Do
 - Develop robust web applications and custom APIs
 - Create tailored WordPress themes and plugins
 - Build social platforms, vaccine registration apps, and more
@@ -23,7 +23,7 @@ I build clean, responsive, and user-friendly websites skilled in multiple techno
 - Bespoke WordPress Themes
 
 ### 📬 Let's Connect!
-[<img alt="x" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/aarifhsn)
+[<img alt="x" src="https://img.shields.io/badge/X-100000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/aarifhsn)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/aarifhasan)
 [<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />](https://mountaviary.com)
 
