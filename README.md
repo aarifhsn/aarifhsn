@@ -1,6 +1,6 @@
 ## Hello, I Am Arif Hassan
 
-#### Full-Stack Web Developer | PHP | Laravel | WordPress Developer | TailwindCSS | JavaScript | Alpine Js  
+#### Full-Stack Web Developer | PHP | Laravel | WordPress Developer | JavaScript | ReactJS | Vue JS | TailwindCSS | Alpine Js  
 
 I build clean, responsive, and user-friendly websites skilled in multiple technologies.
 
