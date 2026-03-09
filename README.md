@@ -5,7 +5,7 @@ I build scalable web applications, SaaS platforms, and modern dashboards for sta
 
 With 6+ years of experience in web development, I focus on creating clean architecture, performant APIs, and user-friendly interfaces that help products launch faster and scale reliably.
 
---
+
 
 ## What I Build
 
@@ -17,7 +17,7 @@ With 6+ years of experience in web development, I focus on creating clean archit
 
 I enjoy working with startups, founders, and teams that need reliable full-stack development to turn ideas into production-ready products.
 
---
+
 
 ## Tech Stack
 
@@ -40,7 +40,7 @@ I enjoy working with startups, founders, and teams that need reliable full-stack
 - Git & GitHub
 - Modern deployment workflows
 
---
+
 
 ## Selected Projects
 
@@ -56,7 +56,7 @@ A PHP + JavaScript system designed to manage vaccination registration and tracki
 ### 🔹 Custom WordPress Development
 Themes and plugins built for real-world production websites and e-commerce platforms.
 
---
+
 
 ## Currently Building & Exploring
 
@@ -65,7 +65,7 @@ Themes and plugins built for real-world production websites and e-commerce platf
 - SaaS architecture and scalable web systems
 - Building my own **micro-SaaS products**
 
---
+
 
 ##  Let's Connect
 
