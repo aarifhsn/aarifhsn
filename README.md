@@ -1,30 +1,77 @@
-## Hello, I Am Arif Hassan
+# Hi, I'm Arif Hassan
 
-#### Full-Stack Web Developer | PHP | Laravel | WordPress | JavaScript | ReactJS | Vue JS | TailwindCSS | Alpine Js  
+**Full-Stack Laravel + React Developer**  
+I build scalable web applications, SaaS platforms, and modern dashboards for startups and growing businesses.
 
-I build clean, responsive, and user-friendly websites skilled in multiple technologies.
+With 6+ years of experience in web development, I focus on creating clean architecture, performant APIs, and user-friendly interfaces that help products launch faster and scale reliably.
 
-###  Tech Stack
-- **Backend**: Laravel, PHP, WordPress (Themes & Plugins)
-- **Frontend**: JavaScript, Alpine.js, Tailwind CSS, Bootstrap 5
-- **Currently Exploring**: React.js to level up further
+---
 
-###  What I Do
-- Develop robust web applications and custom APIs
-- Create tailored WordPress themes and plugins
-- Build social platforms, vaccine registration apps, and more
-- Craft solutions using vanilla JS and PHP frameworks
+## What I Build
 
-###  Notable Projects
-- Social Media Platform (Laravel + Alpine.js)
-- Job Board Application (Laravel)
-- Vaccine Registration System (PHP + JavaScript)
-- Custom API Solutions (Laravel)
-- Bespoke WordPress Themes
+- **SaaS platforms and web applications**
+- **Laravel APIs and backend systems**
+- **React / Next.js dashboards and interfaces**
+- **Custom WordPress themes and plugins**
+- **Modernizing legacy PHP or WordPress applications**
 
-###  Let's Connect!
-[<img alt="x" src="https://img.shields.io/badge/X-100000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/aarifhsn)
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/aarifhasan)
-[<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />](https://mountaviary.com)
+I enjoy working with startups, founders, and teams that need reliable full-stack development to turn ideas into production-ready products.
 
-###  Looking to collaborate on interesting projects? [Say Hello](mailto:aarif@mountaviary.com)
+---
+
+## Tech Stack
+
+### Backend
+- Laravel
+- PHP
+- REST APIs
+- GraphQL
+- Prisma
+
+### Frontend
+- React
+- Next.js
+- JavaScript
+- Tailwind CSS
+- Alpine.js
+
+### Other Tools
+- Docker (basic workflow)
+- Git & GitHub
+- Modern deployment workflows
+
+---
+
+## Selected Projects
+
+### 🔹 SaaS Job Board Platform
+Multi-feature job board application with authentication, employer dashboard, and job application system.
+
+### 🔹 Social Platform
+A Laravel-based social networking platform with user profiles, posts, and interactions.
+
+### 🔹 Vaccine Registration System
+A PHP + JavaScript system designed to manage vaccination registration and tracking.
+
+### 🔹 Custom WordPress Development
+Themes and plugins built for real-world production websites and e-commerce platforms.
+
+---
+
+## Currently Building & Exploring
+
+- Full-stack apps with **Laravel + React**
+- **Next.js** applications
+- SaaS architecture and scalable web systems
+- Building my own **micro-SaaS products**
+
+---
+
+##  Let's Connect
+
+If you're building a startup, SaaS product, or web platform and need a reliable developer, feel free to reach out.
+
+**Portfolio:** https://arifhassan.com  
+**Email:** info@arifhassan.com  
+
+[LinkedIn](https://linkedin.com/in/aarifhasan) • [X / Twitter](https://x.com/aarifhsn)
