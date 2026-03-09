@@ -74,4 +74,4 @@ If you're building a startup, SaaS product, or web platform and need a reliable 
 **Portfolio:** https://arifhassan.com  
 **Email:** info@arifhassan.com  
 
-[LinkedIn](https://linkedin.com/in/aarifhasan) • [X / Twitter](https://x.com/aarifhsn)
+[LinkedIn](https://linkedin.com/in/aarifhasan) • [X / Twitter](https://x.com/aarifhasan)
