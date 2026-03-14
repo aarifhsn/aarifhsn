@@ -1,6 +1,6 @@
 # Hi, I'm Arif Hassan
 
-## **Full-Stack Laravel + React Developer**  
+ **## Laravel & React Developer | SaaS & Web Application Builder | WooCommerce Specialist.**  
 I build scalable web applications, SaaS platforms, and modern dashboards for startups and growing businesses.
 
 With 6+ years of experience in web development, I focus on creating clean architecture, performant APIs, and user-friendly interfaces that help products launch faster and scale reliably.
