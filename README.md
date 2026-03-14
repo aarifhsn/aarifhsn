@@ -1,10 +1,28 @@
-# Hi, I'm Arif Hassan
+<h1 align="center">I build scalable web applications, SaaS platforms, and modern dashboards for startups and growing businesses.</h1>
+<p align="center">
+Laravel & React Developer | SaaS & Web Application Builder | WooCommerce Specialist.
+</p>
 
- **Laravel & React Developer | SaaS & Web Application Builder | WooCommerce Specialist.**  
-I build scalable web applications, SaaS platforms, and modern dashboards for startups and growing businesses.
+---
 
-With 6+ years of experience in web development, I focus on creating clean architecture, performant APIs, and user-friendly interfaces that help products launch faster and scale reliably.
+## About Me
 
+I'm **Arif Hassan**, a full-stack developer focused on building scalable web applications, SaaS platforms, and modern backend systems.
+
+With **6+ years of experience in web development**, I specialize in **Laravel, WordPress, and modern JavaScript frameworks** to deliver reliable and maintainable software.
+
+I build **API-driven applications, SaaS products, and custom web solutions** that help startups and businesses launch faster and scale efficiently.
+
+My work focuses on:
+
+- clean architecture
+- scalable backend systems
+- performant APIs
+- intuitive dashboards and user experiences
+
+I believe great software is built through **simplicity, clarity, and thoughtful system design**.
+
+---
 
 
 ## What I Build
